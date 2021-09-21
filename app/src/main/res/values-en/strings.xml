@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Square</string>
+    <string name="titulo1">Square</string>
+    <string name="Titulo2">Square</string>
+    <string name="texto_numero">Give me a number</string>
+    <string name="calcular_cuadrado">calculate square</string>
+    <string name="_0">\"0\"</string>
+    <string name="imagen_de_una_calculadora">calculator image</string>
+</resources>
